@@ -7,7 +7,7 @@
 ## 六个阶段
 
 | 阶段 | 作用 | 产物 |
-|---|---|---|
+| --- | --- | --- |
 | 学习阶梯 | 5 个难度等级，每级带里程碑、练习、常见错误、自检题 | `ladder.md` |
 | 20 小时计划 | 找出带来 80% 结果的 20% 核心，排成 10 个 2 小时 session | `plan.md` |
 | 考到我崩溃 | 严格考官，10 题逐级加难，一次一题，逐题打分找漏洞 | `progress.md` |
@@ -56,3 +56,7 @@ DSH 也支持项目级安装：`<project>/.agents/skills/` 或 `<project>/.dsh/s
 ## 来源
 
 方法论整理自 Rahul（[@sairahul1](https://x.com/sairahul1)）的文章 *How To Learn Anything 10x Faster Using Claude*。本仓库是其 Claude Code / DeepSeek Harness skill 实现。
+
+## License
+
+[MIT](LICENSE) © 2026 wep0504
