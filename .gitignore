@@ -1,0 +1,16 @@
+# 评测产物（本地运行生成，不纳入版本库）
+learn-anything-workspace/
+
+# 日志与临时文件
+*.log
+*.tmp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# 操作系统 / 编辑器
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
